@@ -1,4 +1,4 @@
-# Local LLM Chatbot
+# 🤖 Local LLM Chatbot
 
 A professional, terminal-based chat interface for local Large Language Models (LLMs), built with **Python**, **LangChain**, and **Ollama**.
 
